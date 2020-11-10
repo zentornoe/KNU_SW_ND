@@ -1,4 +1,4 @@
-# 평가용 Repositories
+# SW 부전공 평가용 Repositories
 * * *
 ## 1. [2019 Hanium Contest]
 **STEV.e** : https://github.com/zentornoe/Stev.e
