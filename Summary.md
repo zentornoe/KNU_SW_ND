@@ -19,7 +19,7 @@ COMP312001/운영체제/2020/1학기/서대화 교수님
 ### 2. [학부연수생](https://github.com/zentornoe/intern_CRVL)
 2019.03.~2020.08., 박순용 교수님, Computer and Robot Vision Lab.
 
-### 3. [경진대회](https://github.com/zentornoe/Steve.e)
+### 3. [경진대회](https://github.com/zentornoe/Stev.e)
 2019 한이음 공모전, 2019.12.04./세종대학교 광개토관, 과학기술정보통신부, 입선
 
 ### 4. [자율과제](https://github.com/zentornoe/BoneToBeDeepLearning)
