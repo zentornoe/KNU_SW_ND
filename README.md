@@ -8,3 +8,6 @@
 
 ## 3. [KNU SW 부전공]
 **SW_GIT** : https://github.com/zentornoe/SW_GIT
+
+## 4. [KNU Capstone Desgin Contest]
+**BoneToBeDeepLearning** : https://github.com/zentornoe/BoneToBeDeepLearning
